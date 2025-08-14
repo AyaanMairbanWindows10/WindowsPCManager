@@ -9,13 +9,15 @@ WindowsPCManager is a lightweight tool to manage your Windows PC efficiently. Ac
 - Streamlined interface for easy navigation
 
 ## Installation
-1. Download the latest release from [Releases](link-to-your-releases).
-2. Run `WindowsPCManager.exe`.
+1. Download the latest release ZIP file from [Releases](link-to-your-releases).  
+2. Extract the contents of the ZIP.  
+3. Run `WindowsPCManager.exe`—no installation required.
 
 ## Usage
-- Open the app and use the menu to access system controls and utilities.
+- Open the app and use the menu to access system controls and utilities.  
 - Adjust settings like volume and brightness directly from the interface.
 
 ## Changelog
 **v1.0**
-- Initial release with power management and utilities.
+- Initial release with power management and utilities
+- ZIP package included for easy download and extraction
